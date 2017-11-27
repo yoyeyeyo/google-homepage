@@ -1,0 +1,1 @@
+This project is to experiment with different elements within a page. I will be recreating the google homepage and experimenting with how things move and change when I play with them. I will add more once I learn a bit.
